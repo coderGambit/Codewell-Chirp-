@@ -1,0 +1,3 @@
+Transitions does not work with height set to auto, the workaround I used uses max-height
+
+Why is there no way to change the src attribute of an image in css? I had to do a silly workaround for the hero images using 2 img elements
